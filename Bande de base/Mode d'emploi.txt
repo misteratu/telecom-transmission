@@ -1,0 +1,15 @@
+Pour lancer la partie sur la bande de base avec les 3 modulateurs,
+il faut lancer le fichier : Bande_de_base.modulateurs.m
+
+Pour lancer la partie sur la transmission sans canal, il faut utiliser
+le programme : Propagation_sans_canal.m
+
+Pour lancer la partie sur la propagation avec canal, mais sans bruit,
+il est nécessaire de lancer : Propagation_canal_sans_bruit.m
+
+Pour lancer les diverses chaînes implantées 1, 2 et 3 de la partie 4,
+il faut lancer respectivement les fichiers Chaine1.m, Chaine2.m et Chaine3.m
+
+Finalement, pour accéder aux comparaisons entre les différentes chaîne et
+l'influence du mapping de gray, il faut lancer le fichier matlab :
+Comparaison_chaine_12_13.m
