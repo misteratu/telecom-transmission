@@ -1,4 +1,4 @@
-# telecom-transmission
+# Télécommunication
 
 L’objectif du projet bande de base est de réaliser différentes chaînes de transmission en bande de base et de les étudier, notamment en terme d’efficacité spectrale et en puissance, pour pouvoir les comparer et d’identifier des pistes d’optimisation.
 
